@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/CHURN/src/serving/model/678496932774893361/f4a50e7864a5482f97bcdf97588d9fb5/artifacts
+end_time: 1763394804493
+entry_point_name: ''
+experiment_id: '678496932774893361'
+lifecycle_stage: active
+run_id: f4a50e7864a5482f97bcdf97588d9fb5
+run_name: adorable-conch-919
+run_uuid: f4a50e7864a5482f97bcdf97588d9fb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394800726
+status: 3
+tags: []
+user_id: yuvar
